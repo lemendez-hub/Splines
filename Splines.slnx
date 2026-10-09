@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="Splines.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Splines.PlayModeTests.csproj" />
+  <Project Path="Splines.EditModeTests.csproj" />
+</Solution>
