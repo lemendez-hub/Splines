@@ -1127,7 +1127,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Splines::SplineFollow
   path: {fileID: 218142791}
   target: {fileID: 1111689186}
-  speed: 2.5
+  speed: 7.5
   easeInOut: 1
   easeDistance: 15
   travelByDistance: 1

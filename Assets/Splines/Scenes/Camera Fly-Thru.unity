@@ -8429,6 +8429,8 @@ MonoBehaviour:
   path: {fileID: 2121145906}
   target: {fileID: 1071888793}
   speed: 2.5
+  easeInOut: 0
+  easeDistance: 15
   travelByDistance: 1
   faceTarget: 1
 --- !u!20 &1616656504
